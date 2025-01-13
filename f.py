@@ -6,8 +6,8 @@ def read_html(file_path):
         return file.read()
 
 # Read the HTML files
-Shopping_Cart = read_html(r'D:\Sagar_Kamble_DiabetesPrediction\shopping.html')
-Product_page = read_html(r'D:\Sagar_Kamble_DiabetesPrediction\product.html')
+Shopping_Cart = read_html(r'shopping.html')
+Product_page = read_html(r'product.html')
 
 # Display title
 st.title("Figma")
