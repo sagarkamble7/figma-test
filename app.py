@@ -4,8 +4,8 @@ from PIL import Image
 # Define a dictionary of pages with their corresponding image filenames
 pages = {
     "Homepage": "image1.png",
-    "Produce Page": "image2.png",
-    "Basket Page": "image3.png",
+    "Produce Page": "image3.png",
+    "Basket Page": "image2.png",
 
 }
 
